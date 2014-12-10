@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SegmentedBarButtonTitle</key>
+	<dict>
+		<key>font-family</key>
+		<string>SegoeUI</string>
+		<key>font-size</key>
+		<string>14</string>
+	</dict>
+	<key>NormalItemTitle</key>
+	<dict>
+		<key>font-size</key>
+		<string>16</string>
+		<key>font-family</key>
+		<string>SegoeUI-Bold</string>
+		<key>color</key>
+		<string>EBEBEB</string>
+		<key>highlightedTextColor</key>
+		<string>222222</string>
+	</dict>
+	<key>NormalItemSubtitle</key>
+	<dict>
+		<key>font-family</key>
+		<string>SegoeUI</string>
+		<key>font-size</key>
+		<string>13</string>
+		<key>color</key>
+		<string>898989</string>
+	</dict>
+	<key>TitleHeader</key>
+	<dict>
+		<key>font-size</key>
+		<string>20</string>
+		<key>font-family</key>
+		<string>SegoeUI</string>
+		<key>color</key>
+		<string>FFFFFF</string>
+		<key>highlightedTextColor</key>
+		<string>222222</string>
+	</dict>
+</dict>
+</plist>
